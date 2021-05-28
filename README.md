@@ -1,3 +1,3 @@
 # express-social-media-frontend
 
-Front end not created by me, only graphql implementation
+Front end React site not created by me, only graphql implementation and some components.
